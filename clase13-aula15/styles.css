@@ -1,0 +1,15 @@
+.oscuro {
+    background-color: #121212;
+    color: white;
+}
+
+#usersContainer {
+    display:flex; 
+}
+
+.card {
+    background-color: pink;
+    padding: 2rem;
+    margin: 0 0.5rem;
+    border-radius: 10px;
+}
